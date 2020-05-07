@@ -1,8 +1,8 @@
 # License And Copyright For use in https://github.com/Hushub
-ให้ยึดหลักของลิขสิทธิ์และใบอนุญาติ ตามประกาศของ Hushub ตามลิงก์ https://sites.google.com/view/hushub/อนๆ/license
+ให้ยึดหลักของลิขสิทธิ์และใบอนุญาติ ตามประกาศของ Hushub ตามลิงก์ https://hushub.netlify.app/license
 
 ## วิธียื่นขออนุญาติการใช้งาน
-ให้ยื่นได้ที่เว็บ http://tiny.cc/Hushub-License
+ให้ยื่นได้ที่เว็บ https://hushub.netlify.app/license
 
 ## ตัวอย่างใบอนุญาติสำหรับการใช้งาน
 Not Upload image. Watch again later.
