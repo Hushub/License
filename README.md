@@ -3,6 +3,3 @@
 
 ## วิธียื่นขออนุญาติการใช้งาน
 ให้ยื่นได้ที่เว็บ https://hushub.netlify.app/license
-
-## ตัวอย่างใบอนุญาติสำหรับการใช้งาน
-Not Upload image. Watch again later.
